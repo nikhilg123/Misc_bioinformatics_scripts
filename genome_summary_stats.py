@@ -1,3 +1,4 @@
+#in progress as of Nov 2024
 #this script is to perform genome QC on all isolate genomes obtained from a collaborator
 #output (currently prints to stdout) includes the name of the genome, the number of sequences that make up the genome,
 #the %GC, N50, the shortest and longest sequence, and the total amount of nucleotides/bp in the genome
